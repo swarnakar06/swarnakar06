@@ -12,14 +12,18 @@
 
 ---
 
-### 👋 Hi, I’m Ashutosh
-I build **AI-powered apps** with real users: cheque **forgery detection (OCR + Siamese NN)**, **market risk analytics** with **Random Forest** + signals, and a **TPN healthcare** calculator with OAuth + MySQL.
+### 👋 Hi, I’m Ashutosh Kumar Swarnakar
 
-- 🧠 **Core:** Python, DS/ML, Algorithms  
-- 🛠 **Stack:** Django, DRF, OpenCV, scikit-learn, Plotly, MySQL  
-- 📈 **Focus:** Computer Vision, Risk Analytics, Healthcare tooling
+I’m a **Computer Science Engineering student** and **Data Science specialist** with a strong foundation in programming, data structures, and algorithms.  
+I specialize in **machine learning, NLP, and computer vision**, and I excel at building **end-to-end AI-powered applications** — from data preprocessing and model development to deployment as full-stack web apps.
 
----
+My expertise includes:
+- **Developing ML models** for predictive analytics, risk assessment, and pattern recognition.
+- **Data visualization** and insight generation using tools like Power BI and Plotly.
+- **Full-stack development** with Django, MySQL, and modern JavaScript for interactive, production-ready solutions.
+
+I’m passionate about turning **complex datasets into actionable insights** and crafting intelligent systems that solve real-world problems in **finance, healthcare, and security**.
+
 
 ### 🧰 Tech Toolbox
 <p align="center">
